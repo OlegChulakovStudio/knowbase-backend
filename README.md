@@ -19,10 +19,10 @@
 - [Sentry]( /content/sentry/README.md)
 - [Работа с датой и временем]( /content/datetime/README.md)
 - [Разрешение кросс-доменных запросов]( /content/cross_domains/README.md)
-- [Поведение для реализации безопасного удаления(флаг is_deleted)](https://github.com/yii2tech/ar-softdelete)
+- [GEOIP](/content/geoip/README.md)
 - [Часто используемые поведения](/content/behaviors/README.md)
 - [Поведение для сохранения файлов в модели](/content/file/README.md)
-- [GEOIP](/content/geoip/README.md)
+
 
 ### Автоматическое тестирование
  - [Тестирование API](/content/codeception/api/README.md)

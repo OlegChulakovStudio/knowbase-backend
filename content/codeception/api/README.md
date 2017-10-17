@@ -47,7 +47,7 @@ codecept run
 ```
 codecept run relative/peth/to/test/ProfileCest.php:ProfileCest
 ```
-Запуск тестов с выводом более подоробной информации
+Запуск тестов с выводом более подробной информации
 ```
 codecept run -vvv
 ```

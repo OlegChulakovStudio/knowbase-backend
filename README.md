@@ -6,6 +6,7 @@
 
 ## Инструментарий
 - [PHPSTORM. Настрока Code Style по стандарту PSR](/content/phpstorm/codestyle/README.md)
+- [PHPSTORM. Работа с PHPUnit](/content/phpstorm/phpunit/README.md)
 
 
 ## YII2

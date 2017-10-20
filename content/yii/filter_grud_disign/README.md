@@ -1,7 +1,7 @@
 # Выпадающий фильтр в админке
 
 
-![alt text](/content/filter_grud_disign/files/example.png)
+![alt text](/content/yii/filter_grud_disign/files/example.png)
 
 - Вывести вьюшку поиска
 ```

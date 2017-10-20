@@ -14,17 +14,17 @@
 
 ### Типовые задачи
 
-- [Сервисы для склонения](/content/transliterate/README.md) 
-- [Экспорт данных в pdf, xlsx, txt и т.д.]( /content/export/README.md)
-- [Выпадающий фильтр для админки]( /content/filter_grud_disign/README.md)
-- [Sentry]( /content/sentry/README.md)
-- [Работа с датой и временем]( /content/datetime/README.md)
-- [Разрешение кросс-доменных запросов]( /content/cross_domains/README.md)
-- [GEOIP](/content/geoip/README.md)
-- [Часто используемые поведения](/content/behaviors/README.md)
-- [Поведение для сохранения файлов в модели](/content/file/README.md)
+- [Сервисы для склонения](/content/yii/transliterate/README.md) 
+- [Экспорт данных в pdf, xlsx, txt и т.д.]( /content/yii/export/README.md)
+- [Выпадающий фильтр для админки]( /content/yii/filter_grud_disign/README.md)
+- [Sentry]( /content/yii/sentry/README.md)
+- [Работа с датой и временем]( /content/yii/datetime/README.md)
+- [Разрешение кросс-доменных запросов]( /content/yii/cross_domains/README.md)
+- [GEOIP](/content/yii/geoip/README.md)
+- [Часто используемые поведения](/content/yii/behaviors/README.md)
+- [Поведение для сохранения файлов в модели](/content/yii/file/README.md)
 
 
 ### Автоматическое тестирование
- - [Тестирование API](/content/codeception/api/README.md)
- - [Фикстуры, заполнение тестовыми данными](/content/fixtures/README.md)
+ - [Тестирование API](/content/yii/codeception/api/README.md)
+ - [Фикстуры, заполнение тестовыми данными](/content/yii/fixtures/README.md)
